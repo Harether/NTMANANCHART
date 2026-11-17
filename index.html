@@ -82,6 +82,12 @@
                     // Artist
                     $("<td width='40%'>" + info[i].artist + "</td>").appendTo(str);
 
+                    
+                    // Comment
+                    $("<td width='10%'>" + info[i].comment + "</td>").appendTo(str);
+                    str.appendTo(obj);
+                    count++;
+
 
                 }
                 $("</tbody>").appendTo(obj);
