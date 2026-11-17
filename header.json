@@ -1,5 +1,5 @@
 {
-"ナツアン譜面" : "ここに難易度表の名前",
-"夏" : "ここにシンボル",
-"https://script.google.com/macros/s/AKfycbytNjL_W6SGNNxEb5JIOTxJfnhNHXVlMZzUqe8nr_vQZxi0-RBrHCxoMrtspobgxwZbow/exec" : "ここにJSONのURL"
+"name" : "ナツアン譜面",
+"symbol" : "夏",
+"data_url" : "https://script.google.com/macros/s/AKfycbytNjL_W6SGNNxEb5JIOTxJfnhNHXVlMZzUqe8nr_vQZxi0-RBrHCxoMrtspobgxwZbow/exec" "ここにJSONのURL"
 }
